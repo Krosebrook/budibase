@@ -65,7 +65,7 @@
     "@spectrum-css/vars": "^3.0.1",
     "@xyflow/svelte": "^0.1.18",
     "@zerodevx/svelte-json-view": "^1.0.7",
-    "codemirror": "^5.65.16",
+    "codemirror": "^6.0.0",
     "cron-parser": "^4.9.0",
     "dayjs": "^1.10.8",
     "downloadjs": "1.4.7",
